@@ -1,0 +1,7 @@
+{
+  "name": "cch",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
